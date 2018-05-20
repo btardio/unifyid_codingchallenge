@@ -1,0 +1,8 @@
+.fe-item {
+  background-color: #bdbdbd;
+  margin: 3px;
+}
+.fe-item-selected {
+  background-color: ##757575;
+  margin: 3px;
+}
